@@ -10,6 +10,17 @@ Last changed: |date|
 Lost access to instance
 -------------------------------------------------
 
+There can be multiple reasons for losing access to the instance.
+
+- lost SSH key 
+- wrong disk mount path 
+- problems with NIC/network  
+- 
+
+Dont fret, there is maybe a way to fix this by accsing the console/terminal.
+But you need to do some "hacks" to do so if you didnt set/change a users password. 
+
+
 Possible solution
 .................
 
