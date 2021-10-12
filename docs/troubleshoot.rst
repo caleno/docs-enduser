@@ -31,7 +31,7 @@ Depending on if you are using Ubuntu or Centos you should now have a console and
 
 On my keyboard (norwegian):
 
-:kbd:`=` is :kbd:`\` left key from backspace
+:kbd:`=` is :kbd:`\\` left key from backspace
 
 :kbd:`/` is :kbd:`-` left key from right shift
 
@@ -69,9 +69,9 @@ pass phrase at the moment. Please contact us in case it is lost.
 
 Rescue instance
 -------------
-.. _rescue_offical: https://docs.openstack.org/nova/latest/user/rescue.htmlhttp://docs.nrec.no/changelog.html#id1
+.. _rescue mode: https://docs.openstack.org/nova/latest/user/rescue.htmlhttp://docs.nrec.no/changelog.html#id1
 
-rescue_offical_, 
+You can find official documentation on hoe to put you instance in rescue mode_, 
 
 .. NOTE::
    Setting a password when activating rescue mode dose not work.
